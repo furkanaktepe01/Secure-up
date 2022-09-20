@@ -1,0 +1,1 @@
+export const WEB3STORAGE_TOKEN = "***";
